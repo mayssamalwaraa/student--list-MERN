@@ -1,0 +1,7 @@
+1.add tabel for student (Full name,age,email,class) use MUI.
+2.add form for add info students use MUI .
+3.add every student into tabel and clear the textfield.
+so we need to use useState for student data and form data .
+4.add alert when user add admin as a name.
+so we use useEffect to listen on name textField.
+5.add alert when you add more than 5 students. 
